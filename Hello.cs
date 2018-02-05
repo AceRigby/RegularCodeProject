@@ -7,6 +7,7 @@ namespace HelloWorld
         static void Main() 
         {
             Console.WriteLine("Hello Regular World!");
+            Console.WriteLine("This is an experiment!");
 
             // Keep the console window open in debug mode.
             Console.WriteLine("Press any key to exit.");
